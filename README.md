@@ -12,11 +12,10 @@
 <br>
 </div>
 
+
 <div>
-<img height="280px" src="https://github-readme-stats.vercel.app/api/top-langs?username=sihbackes&theme=dracula"/>
-<img height="280px" src="https://github-readme-streak-stats.herokuapp.com/?user=sihbackes&theme=dracula"/>
+<img width="250px" src="https://github-readme-stats.vercel.app/api/top-langs?username=sihbackes&theme=dracula"/>
+<img width="605px"src="https://github-readme-streak-stats.herokuapp.com/?user=sihbackes&theme=dracula"/>
+
 </div>
-
-
-
-
+  
