@@ -12,10 +12,13 @@
 <br>
 </div>
 
-
-<div>
+<div> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sihbackes&theme=dracula"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sihbackes&theme=dracula"/>
-
 </div>
+<div> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sihbackes&theme=dracula"/>
+</div>
+
+
+
   
