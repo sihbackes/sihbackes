@@ -16,9 +16,7 @@
 <br>
 </div>
 
-<div align="center"> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sihbackes&theme=dracula"/>
-</div>
+
 <div align="center"> 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sihbackes&theme=dracula"/>
 </div>
